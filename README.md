@@ -17,5 +17,5 @@ const LuanBertani = {<br>
  📧: (contact)  {<br>
  Email: luanbertani@outlook.com
  
-   } 
+  <br>   } 
  }
